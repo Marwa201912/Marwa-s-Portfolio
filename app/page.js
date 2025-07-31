@@ -44,7 +44,7 @@ export default function Home() {
             📧 <a href="mailto:marwa279268@gmail.com" className="text-blue-600 hover:underline">marwa279268@gmail.com</a>
           </p>
           <p>
-            🔗 <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank" className="text-blue-600 hover:underline">
+            🔗 <a href="https://www.linkedin.com/in/marwa-musa-01524769/" target="_blank" className="text-blue-600 hover:underline">
               LinkedIn Profile
             </a>
           </p>
